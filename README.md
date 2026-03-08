@@ -403,6 +403,14 @@ hello
 
 
 
+<p>次のURLに訪れてみてください</p>
+
+
+
 <div class="wp-block-group">
+<pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>https://ss523971.stars.ne.jp/todo/hello/</code></pre>
+
+
+
 <p>chromeの場合、右クリック→検証→要素タブに表示される文字列が表示されるはずです<br>safariの場合、右クリック→要素の詳細を表示に表示される文字列が表示されるはずです</p>
 </div>
